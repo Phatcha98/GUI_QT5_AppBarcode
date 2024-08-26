@@ -1,0 +1,1 @@
+Pyrcc5 D:\yolo8\zbar_smt\icon\logo.qrc -o D:\yolo8\zbar_smt\smt_icon.py
